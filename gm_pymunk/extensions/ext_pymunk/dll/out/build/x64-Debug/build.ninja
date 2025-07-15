@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_gmPymunk: phony || .
 build CMakeFiles\gmPymunk.dir\cmake_pch.cxx.obj: CXX_COMPILER__gmPymunk_unscanned_Debug C$:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\out\build\x64-Debug\CMakeFiles\gmPymunk.dir\cmake_pch.cxx | CMakeFiles\gmPymunk.dir\cmake_pch.hxx || cmake_object_order_depends_target_gmPymunk
   DEFINES = -DgmPymunk_EXPORTS
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /YcC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/cmake_pch.hxx /FpC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/./cmake_pch.cxx.pch /FIC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/cmake_pch.hxx
-  INCLUDES = -external:IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\pybind11\include -external:IC:\Users\matt\AppData\Local\Programs\Python\Python312\include -external:W0
+  INCLUDES = -IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\python\include -external:IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\pybind11\include -external:IC:\Users\matt\AppData\Local\Programs\Python\Python312\include -external:W0
   OBJECT_DIR = CMakeFiles\gmPymunk.dir
   OBJECT_FILE_DIR = CMakeFiles\gmPymunk.dir
   TARGET_COMPILE_PDB = CMakeFiles\gmPymunk.dir\
@@ -67,7 +67,7 @@ build CMakeFiles\gmPymunk.dir\.\cmake_pch.cxx.pch: phony CMakeFiles\gmPymunk.dir
 build CMakeFiles\gmPymunk.dir\src\dllmain.cpp.obj: CXX_COMPILER__gmPymunk_unscanned_Debug C$:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\src\dllmain.cpp | CMakeFiles\gmPymunk.dir\cmake_pch.hxx CMakeFiles\gmPymunk.dir\cmake_pch.cxx.pch || cmake_object_order_depends_target_gmPymunk
   DEFINES = -DgmPymunk_EXPORTS
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /YuC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/cmake_pch.hxx /FpC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/./cmake_pch.cxx.pch /FIC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/cmake_pch.hxx
-  INCLUDES = -external:IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\pybind11\include -external:IC:\Users\matt\AppData\Local\Programs\Python\Python312\include -external:W0
+  INCLUDES = -IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\python\include -external:IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\pybind11\include -external:IC:\Users\matt\AppData\Local\Programs\Python\Python312\include -external:W0
   OBJECT_DIR = CMakeFiles\gmPymunk.dir
   OBJECT_FILE_DIR = CMakeFiles\gmPymunk.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\gmPymunk.dir\
@@ -76,7 +76,7 @@ build CMakeFiles\gmPymunk.dir\src\dllmain.cpp.obj: CXX_COMPILER__gmPymunk_unscan
 build CMakeFiles\gmPymunk.dir\src\pch.cpp.obj: CXX_COMPILER__gmPymunk_unscanned_Debug C$:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\src\pch.cpp | CMakeFiles\gmPymunk.dir\cmake_pch.hxx CMakeFiles\gmPymunk.dir\cmake_pch.cxx.pch || cmake_object_order_depends_target_gmPymunk
   DEFINES = -DgmPymunk_EXPORTS
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /YuC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/cmake_pch.hxx /FpC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/./cmake_pch.cxx.pch /FIC:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/gmPymunk.dir/cmake_pch.hxx
-  INCLUDES = -external:IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\pybind11\include -external:IC:\Users\matt\AppData\Local\Programs\Python\Python312\include -external:W0
+  INCLUDES = -IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\python\include -external:IC:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\pybind11\include -external:IC:\Users\matt\AppData\Local\Programs\Python\Python312\include -external:W0
   OBJECT_DIR = CMakeFiles\gmPymunk.dir
   OBJECT_FILE_DIR = CMakeFiles\gmPymunk.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\gmPymunk.dir\
@@ -90,10 +90,10 @@ build CMakeFiles\gmPymunk.dir\src\pch.cpp.obj: CXX_COMPILER__gmPymunk_unscanned_
 #############################################
 # Link the shared library gmPymunk.dll
 
-build gmPymunk.dll gmPymunk.lib: CXX_SHARED_LIBRARY_LINKER__gmPymunk_Debug CMakeFiles\gmPymunk.dir\cmake_pch.cxx.obj CMakeFiles\gmPymunk.dir\src\dllmain.cpp.obj CMakeFiles\gmPymunk.dir\src\pch.cpp.obj | C$:\Users\matt\AppData\Local\Programs\Python\Python312\libs\python312.lib
+build gmPymunk.dll gmPymunk.lib: CXX_SHARED_LIBRARY_LINKER__gmPymunk_Debug CMakeFiles\gmPymunk.dir\cmake_pch.cxx.obj CMakeFiles\gmPymunk.dir\src\dllmain.cpp.obj CMakeFiles\gmPymunk.dir\src\pch.cpp.obj | C$:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\python\python311.lib C$:\Users\matt\AppData\Local\Programs\Python\Python312\libs\python312.lib
   LANGUAGE_COMPILE_FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL
-  LINK_LIBRARIES = C:\Users\matt\AppData\Local\Programs\Python\Python312\libs\python312.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_LIBRARIES = C:\Users\matt\Desktop\working-directory\gm_pymunk\gm_pymunk\extensions\ext_pymunk\dll\extern\python\python311.lib  C:\Users\matt\AppData\Local\Programs\Python\Python312\libs\python312.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   OBJECT_DIR = CMakeFiles\gmPymunk.dir
   POST_BUILD = cd .
   PRE_LINK = cd .

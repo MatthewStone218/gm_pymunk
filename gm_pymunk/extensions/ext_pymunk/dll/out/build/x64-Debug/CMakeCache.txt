@@ -258,15 +258,6 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-//Value Computed by CMake
-GMBridge_BINARY_DIR:STATIC=C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug
-
-//Value Computed by CMake
-GMBridge_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-GMBridge_SOURCE_DIR:STATIC=C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll
-
 //To enforce that a handle_type_name<> specialization exists
 PYBIND11_DISABLE_HANDLE_TYPE_NAME_DEFAULT_IMPLEMENTATION:BOOL=OFF
 

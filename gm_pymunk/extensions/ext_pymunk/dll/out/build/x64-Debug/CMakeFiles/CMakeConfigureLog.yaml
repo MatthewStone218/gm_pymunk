@@ -109,8 +109,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2gnsnm"
-      binary: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2gnsnm"
+      source: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f0lf0e"
+      binary: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f0lf0e"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -119,11 +119,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2gnsnm'
+        Change Dir: 'C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f0lf0e'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7d88e
-        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_7d88e.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_7d88e.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_7d88e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7d88e.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_7d88e.exe /implib:cmTC_7d88e.lib /pdb:cmTC_7d88e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f25dc
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_f25dc.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_f25dc.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f25dc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f25dc.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_f25dc.exe /implib:cmTC_f25dc.lib /pdb:cmTC_f25dc.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -163,8 +163,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-l0nbuu"
-      binary: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-l0nbuu"
+      source: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-81n2z3"
+      binary: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-81n2z3"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -174,11 +174,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-l0nbuu'
+        Change Dir: 'C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-81n2z3'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1b98e
-        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_1b98e.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_1b98e.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1b98e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1b98e.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_1b98e.exe /implib:cmTC_1b98e.lib /pdb:cmTC_1b98e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1f7a8
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_1f7a8.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_1f7a8.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1f7a8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1f7a8.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_1f7a8.exe /implib:cmTC_1f7a8.lib /pdb:cmTC_1f7a8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -209,10 +209,6 @@ events:
       Running the CXX compiler's linker: "C:/PROGRA~1/MIB055~1/2022/COMMUN~1/VC/Tools/MSVC/1442~1.344/bin/Hostx64/x64/link.exe" "-v"
       Microsoft (R) Incremental Linker Version 14.42.34435.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
-...
-
----
-events:
   -
     kind: "try_compile-v1"
     backtrace:
@@ -226,8 +222,8 @@ events:
     checks:
       - "Performing Test HAS_MSVC_GL_LTCG"
     directories:
-      source: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-87qm10"
-      binary: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-87qm10"
+      source: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-wbj4pg"
+      binary: "C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-wbj4pg"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -236,11 +232,11 @@ events:
       variable: "HAS_MSVC_GL_LTCG"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-87qm10'
+        Change Dir: 'C:/Users/matt/Desktop/working-directory/gm_pymunk/gm_pymunk/extensions/ext_pymunk/dll/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-wbj4pg'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c1485
-        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DHAS_MSVC_GL_LTCG  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1   /GL /showIncludes /FoCMakeFiles\\cmTC_c1485.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_c1485.dir\\ /FS -c C:\\Users\\matt\\Desktop\\working-directory\\gm_pymunk\\gm_pymunk\\extensions\\ext_pymunk\\dll\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-87qm10\\src.cxx
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_c1485.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c1485.dir\\src.cxx.obj  /out:cmTC_c1485.exe /implib:cmTC_c1485.lib /pdb:cmTC_c1485.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  -LTCG  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_07a48
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DHAS_MSVC_GL_LTCG  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1   /GL /showIncludes /FoCMakeFiles\\cmTC_07a48.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_07a48.dir\\ /FS -c C:\\Users\\matt\\Desktop\\working-directory\\gm_pymunk\\gm_pymunk\\extensions\\ext_pymunk\\dll\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-wbj4pg\\src.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_07a48.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1442~1.344\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_07a48.dir\\src.cxx.obj  /out:cmTC_07a48.exe /implib:cmTC_07a48.lib /pdb:cmTC_07a48.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  -LTCG  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...
